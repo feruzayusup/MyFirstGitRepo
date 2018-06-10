@@ -3,5 +3,9 @@ This is my first line for GITHUB
 Git Hub Qalesan? Men seni organyappan va 1 line add qilyappan
 
 
-jiji juju
-lala pala
+The list of groceries:
+Cherries
+Banana
+Apple
+Grapes
+Peanut Butter
